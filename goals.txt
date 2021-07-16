@@ -1,0 +1,23 @@
+Tasks
+
+
+*** 2021/07/16 ***
+- basic interface options (window, canvas, buttons)
+- countdown options
+
+
+*** 2021/07/17 ***
+- button funcs
+- dataloader
+
+
+*** 2021/07/18 ***
+- data save and transferring
+
+
+*** 2021/07/19 ***
+- task manager
+
+
+*** 2021/07/20 ***
+- API integration
